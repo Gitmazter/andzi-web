@@ -1,4 +1,4 @@
-# My personal site
+# Andzi-web
 
 This project will be hosted on my personal server under andzi-web.tech
 

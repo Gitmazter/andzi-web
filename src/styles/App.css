@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+header {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-height: 7vh;
+  width: 100%;
+  background-color: rgb(33, 11, 53);
+  color: white;
+}
+
+.Socials .SocialsList {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  bottom: 0px;
+  min-height: 5vh;
+  color: rgb(77, 77, 77);
+  background-color: rgba(255, 255, 0, 0);
+}
+
+.Sidebar {
+  background-color: rgb(33, 11, 53);
+  position: fixed;
+  top: 7vh;
+  height: 100%;
+  min-width: 7vh;
+  padding-top: 10vh;
+}
+
+main {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=App.css.map */
